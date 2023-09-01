@@ -10,6 +10,7 @@
 #include <aws/core/utils/memory/stl/AWSSet.h>
 
 #include <cmath>
+#include <cstdlib>
 #include <thread>
 
 using namespace Aws::Utils::Threading;
