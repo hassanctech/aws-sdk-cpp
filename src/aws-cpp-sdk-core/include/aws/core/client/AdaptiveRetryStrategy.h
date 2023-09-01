@@ -9,6 +9,8 @@
 #include <aws/core/client/RetryStrategy.h>
 #include <aws/core/utils/DateTime.h>
 
+#include <cstdlib>
+
 namespace Aws
 {
 namespace Client
